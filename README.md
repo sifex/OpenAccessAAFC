@@ -12,13 +12,13 @@ Find the use cases in the files.
 ## Variables
 
 ```php
-  $_SESSION['fnames']=$fd[0]; // seperate values from hector into individual variables.
-  $_SESSION['lname']=$fd[1];
-  $_SESSION['rank']=$fd[2];
-  $_SESSION['role']=$fd[3];
-  $_SESSION['unit']=$fd[4];
-  $_SESSION['useremail']=$fd[5];
-  $_SESSION['useremail'].=$emaildom;
-  $_SESSION['servicenumber']=$fd[6];
-  $_SESSION['appointments'] = array();
+  $_SESSION['fnames'];
+  $_SESSION['lname'];
+  $_SESSION['rank'];
+  $_SESSION['role'];
+  $_SESSION['unit'];
+  $_SESSION['useremail'];
+  $_SESSION['useremail'].;
+  $_SESSION['servicenumber'];
+  $_SESSION['appointments'] ;
 ```
