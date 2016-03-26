@@ -8,6 +8,8 @@ Script made by http://design5.co
 
 ---------------------- 
 
+![http://i.imgur.com/rFYKz6W.png](http://i.imgur.com/rFYKz6W.png)
+
 *OpenAccess.php*
 
 	1)	Set your squadron variable under the $siteid
