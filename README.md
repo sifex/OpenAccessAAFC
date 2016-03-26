@@ -10,7 +10,8 @@ Script made by http://design5.co
 Find the use cases in the files.
 
 ## Variables
-  
+
+```php
   $_SESSION['fnames']=$fd[0]; // seperate values from hector into individual variables.
   $_SESSION['lname']=$fd[1];
   $_SESSION['rank']=$fd[2];
@@ -20,3 +21,4 @@ Find the use cases in the files.
   $_SESSION['useremail'].=$emaildom;
   $_SESSION['servicenumber']=$fd[6];
   $_SESSION['appointments'] = array();
+```
