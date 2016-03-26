@@ -18,7 +18,7 @@ Find the use cases in the files.
   $_SESSION['role'];
   $_SESSION['unit'];
   $_SESSION['useremail'];
-  $_SESSION['useremail'].;
+  $_SESSION['useremail'];
   $_SESSION['servicenumber'];
-  $_SESSION['appointments'] ;
+  $_SESSION['appointments'];
 ```
